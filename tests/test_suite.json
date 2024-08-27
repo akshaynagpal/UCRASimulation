@@ -1,0 +1,16 @@
+{
+  "simulation_time": 100,
+  "devices":[
+    {"id": 1, "processing": 1000, "memory": 512, "energy": 10},
+    {"id": 2, "processing": 2000, "memory": 1024, "energy": 20},
+    {"id": 3, "processing": 1500, "memory": 768, "energy": 15},
+    {"id": 4, "processing": 800, "memory": 256, "energy": 5},
+    {"id": 5, "processing": 3000, "memory": 2048, "energy": 30},
+    {"id": 6, "processing": 1000, "memory": 512, "energy": 10},
+    {"id": 7, "processing": 2000, "memory": 1024, "energy": 20},
+    {"id": 8, "processing": 1500, "memory": 768, "energy": 15},
+    {"id": 9, "processing": 800, "memory": 256, "energy": 5},
+    {"id": 10, "processing": 3000, "memory": 2048, "energy": 30}
+  ],
+  "task_arrival_rates": [0.2, 0.4, 0.6, 0.8, 1.0]
+}
